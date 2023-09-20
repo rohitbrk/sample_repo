@@ -1,2 +1,6 @@
 Authentication - Is the person a legit user or not?
 Authorization - Does this person has access to this particular resource?
+
+Two main ways:
+1. Session based
+2. Token bases - JWT
